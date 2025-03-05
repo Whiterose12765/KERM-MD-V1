@@ -1,5 +1,5 @@
 {
-  "name": "KERM-MD-V1",
+  "name": "꧁ঔ☬۝𝐙𝐀𝐘𝐀𝐍𝐅𝐎𝐔𝐑𝐅𝐈𝐍𝐆𝐄𝐑𝐒۝☬ঔ꧂",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ Kɢ ᴛᴇᴄʜ",
   "logo": "https://files.catbox.moe/yw2ty2.jpeg",
   "keywords": ["bot"],
@@ -10,31 +10,31 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "6MhAWaYJ#ZUdqDDW8WdK7sEWZ6tVC9EkDs0BwXkkXbcVLslpp6iA"
     },  
     
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://files.catbox.moe/yw2ty2.jpeg"
+      "value": "https://ibb.co/CsBmGggJ"
     }, 
     
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "_Hi bro am alive now🥷🏽🤝🏾._"
+      "value": "_Hi bro am ꧁ঔ☬۝𝐙𝐀𝐘𝐀𝐍𝐅𝐎𝐔𝐑𝐅𝐈𝐍𝐆𝐄𝐑𝐒۝☬ঔ꧂🥷🏽🤝🏾._"
     },
     
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": true,
-      "value": "."
+      "value": "©"
     },
     
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": true,
-      "value": "public"
+      "value": "private"
     }, 
 
     "AUTO_VOICE": {
@@ -52,7 +52,7 @@
     "AUTO_STICKER": {
       "description": "Make it true if you want bot auto sticker.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
     "AUTO_READ_STATUS": {
@@ -81,27 +81,27 @@
 
     "AUTO_REACT": {
       "description": "Make it true if you want bot AutoReact.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
 
     "OWNER_REACT": {
       "description": "Make it true if you want bot OwnerReact.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     
     }, 
 
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦『𝗞𝗘𝗥𝗠 𝗠𝗗 𝗩1』✦"
+      "value": "✦『꧁ঔ☬۝𝐙𝐀𝐘𝐀𝐍𝐅𝐎𝐔𝐑𝐅𝐈𝐍𝐆𝐄𝐑𝐒۝☬ঔ꧂』✦"
     }, 
 
     "HEART_REACT": {
       "description": "Make it true if you want bot only heart ♥️ emjois reaction .",
       "required": true,
-      "value": "false"
+      "value": "true"
     }
 
 },
